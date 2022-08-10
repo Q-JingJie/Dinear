@@ -19,7 +19,7 @@ const FooterLink = () => {
       <Stack direction="column" alignItems="center">
         <IconButton
           sx={{ color: "whitesmoke", width: 25, height: 25, marginBottom: 1 }}
-          href="https://github.com/Q-JingJie/Starved."
+          href="https://github.com/Q-JingJie/Dinear"
         >
           <GitHubIcon />
         </IconButton>
