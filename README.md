@@ -6,10 +6,17 @@ First create a .env file to host the necessary environmental variable in the **r
 
 **Required variables**
 
-| Name    | Details                          |
-| ------- | -------------------------------- |
-| PORT    | Port number for server to run on |
-| API_KEY | Foursquare PlacesAPI key         |
+| Name | Details                          |
+| ---- | -------------------------------- |
+| PORT | Port number for server to run on |
+
+Next create another .env file in the **root** of the "client" directory.
+
+**Required variables**
+
+| Name              | Details                  |
+| ----------------- | ------------------------ |
+| REACT_APP_API_KEY | Foursquare PlacesAPI key |
 
 ## **2. Building the application**
 
