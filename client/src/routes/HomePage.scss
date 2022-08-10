@@ -1,0 +1,16 @@
+.hp-base {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  overflow: hidden;
+}
+
+.hp-footer {
+  font-family: "Roboto";
+  height: 60px;
+  width: 250px;
+  font-size: 0.8em;
+  position: fixed;
+  bottom: 0;
+  left: calc((100vw - 250px) / 2);
+}
