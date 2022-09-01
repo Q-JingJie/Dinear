@@ -19,12 +19,12 @@ const FooterLink = () => {
       <Stack direction="column" alignItems="center">
         <IconButton
           sx={{ color: "whitesmoke", width: 25, height: 25, marginBottom: 1 }}
-          href="https://github.com/Q-JingJie/Dinear"
+          href="https://github.com/qjingjie/Dinear"
         >
           <GitHubIcon />
         </IconButton>
         <Typography variant="body2" color="text.secondary" marginBottom="1">
-          A mini project by: Q-JingJie (2022)
+          A mini project by: qjingjie (2022)
         </Typography>
       </Stack>
     </footer>

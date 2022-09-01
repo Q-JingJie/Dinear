@@ -18,6 +18,10 @@ Next create another .env file in the **root** of the "client" directory.
 | ----------------- | ------------------------ |
 | REACT_APP_API_KEY | Foursquare PlacesAPI key |
 
+The Foursquare PlacesAPI key can be obtained by creating a Foursqure account.
+
+For more details, visit: https://developer.foursquare.com/docs/places-api-overview
+
 ## **2. Building the application**
 
 From the root of the project folder, navigate to the client folder.
@@ -39,3 +43,7 @@ Start the server.
 <code>npm start</code>
 
 Open the web browser and visit **localhost:PORT**.
+
+## **4. Application Demo**
+
+![Application Demo](./media/Dinear-demo.gif)
